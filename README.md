@@ -1,9 +1,19 @@
-# Personal Dashboard
+# PersonalDashboard
 
-This is just an idea of creating a personal dashboard for people. My personal idea is to keep track of certain things and will start creating certain widgets for myself.
+To start your Phoenix server:
 
-But over time who knows what we can do with this.
+  * Install dependencies with `mix deps.get`
+  * Create and migrate your database with `mix ecto.setup`
+  * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
 
-## Technical Background
+Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-The dashboard will be a Phoenix Liveview with the widgets being stateful components, that's about everything that I have already in mind. Everything else will come later.
+Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+
+## Learn more
+
+  * Official website: https://www.phoenixframework.org/
+  * Guides: https://hexdocs.pm/phoenix/overview.html
+  * Docs: https://hexdocs.pm/phoenix
+  * Forum: https://elixirforum.com/c/phoenix-forum
+  * Source: https://github.com/phoenixframework/phoenix
